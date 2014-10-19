@@ -32,6 +32,7 @@
 		D717FD1619F41CDF0066C862 /* SpikeTwoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpikeTwoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D717FD1B19F41CDF0066C862 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D717FD1C19F41CDF0066C862 /* SpikeTwoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpikeTwoTests.swift; sourceTree = "<group>"; };
+		D7AC936119F41F1500C77701 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 		D717FCFD19F41CDF0066C862 = {
 			isa = PBXGroup;
 			children = (
+				D7AC936119F41F1500C77701 /* README.md */,
 				D717FD0819F41CDF0066C862 /* SpikeTwo */,
 				D717FD1919F41CDF0066C862 /* SpikeTwoTests */,
 				D717FD0719F41CDF0066C862 /* Products */,
@@ -393,6 +395,7 @@
 				D717FD2219F41CDF0066C862 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D717FD2319F41CDF0066C862 /* Build configuration list for PBXNativeTarget "SpikeTwoTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +404,7 @@
 				D717FD2519F41CDF0066C862 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
